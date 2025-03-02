@@ -1,0 +1,10 @@
+/* 修复图表容器大小 */
+.echarts-for-react {
+    min-height: 600px !important;
+  }
+  
+  /* 标题居中 */
+  h1 {
+    text-align: center;
+    color: #2c3e50;
+  }
